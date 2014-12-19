@@ -1,0 +1,6 @@
+data\person01_boxing_d1_uncomp.avi
+data\person01_handclapping_d1_uncomp.avi
+data\person01_handwaving_d1_uncomp.avi
+data\person01_jogging_d1_uncomp.avi
+data\person01_running_d1_uncomp.avi
+data\person01_walking_d1_uncomp.avi
