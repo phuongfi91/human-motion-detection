@@ -5,11 +5,11 @@ human-motion-detection
 + The implementation is based on the SVM machine learning algorithm from OpenCV library.
 + The learning algorithm is not perfect, if not broken, the more it learns, the less accurate it gets. I'm well aware of my subpar math skill.
 
-#####Prerequisites:
+#### Prerequisites:
 + Windows XP, Vista, 7, 8, 8.1
 + Some input video file, perfect sample is from KTH Dataset (http://www.nada.kth.se/cvap/actions/)
 
-####Screenshot:
+#### Screenshot:
 + Main menu
 
 ![Main menu](https://raw.githubusercontent.com/milkysunshine91/human-motion-detection/master/screens/menu.png "Main menu")
